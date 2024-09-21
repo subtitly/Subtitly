@@ -4,5 +4,13 @@
         <title>Subtitly's Changelog</title>
         <link>https://subtitly.github.io/subtitly/appcast.xml</link>
         <description>Most recent changes with links to updates.</description>
+        <item>
+            <title>1.0</title>
+            <pubDate>Sat, 21 Sep 2024 17:02:57 +0200</pubDate>
+            <sparkle:version>32</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/subtitly/Subtitly/releases/download/v1.0.0/Subtitly.zip" length="17578371" type="application/octet-stream" sparkle:edSignature="yrlx75wKbVsp96qtAM2wdhDtwugLa42vyEXInAObMtFWS+UMBvS1LngcEzUJsZfbz5WLe5fP27IHx4D4mdsiAg=="/>
+        </item>
     </channel>
 </rss>
