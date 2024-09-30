@@ -12,5 +12,13 @@
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/subtitly/Subtitly/releases/download/v1.0.0/Subtitly.1.0.0.zip" length="17604914" type="application/octet-stream" sparkle:edSignature="0MgNqRPSzXAwYXZKpt6Oo1y3ntKd9Rgb0IafgYYcNTrQoi4vnGa+L4jb8QnofU2lcSsx/0oGSwr+e0xD8QrPBA=="/>
         </item>
+        <item>
+            <title>1.0.6</title>
+            <pubDate>Mon, 30 Sep 2024 19:00:16 +0200</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/subtitly/Subtitly/releases/download/v1.0.6/Subtitly.1.0.6.zip" length="5078952" type="application/octet-stream" sparkle:edSignature="DqYDoqyELCJY/Auu8IRkN2FZBz5Hp2Q25kWdTgN7qxC8qQ/n3FWDDdf137Sbbk0YvvjOA97UfMZKN5Cz/28WCg=="/>
+        </item>
     </channel>
 </rss>
