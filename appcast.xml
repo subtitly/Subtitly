@@ -5,20 +5,23 @@
         <link>https://subtitly.github.io/subtitly/appcast.xml</link>
         <description>Most recent changes with links to updates.</description>
         <item>
-            <title>1.0.0</title>
-            <pubDate>Sat, 21 Sep 2024 17:13:51 +0200</pubDate>
-            <sparkle:version>33</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <title>1.1.1</title>
+            <pubDate>Thu, 10 Oct 2024 15:54:57 +0200</pubDate>
+            <sparkle:version>36</sparkle:version>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/subtitly/Subtitly/releases/download/v1.0.0/Subtitly.1.0.0.zip" length="17604914" type="application/octet-stream" sparkle:edSignature="0MgNqRPSzXAwYXZKpt6Oo1y3ntKd9Rgb0IafgYYcNTrQoi4vnGa+L4jb8QnofU2lcSsx/0oGSwr+e0xD8QrPBA=="/>
+            <enclosure url="https://github.com/subtitly/Subtitly/releases/download/v1.1.1/Subtitly.1.1.1.zip" length="7921815" type="application/octet-stream" sparkle:edSignature="+6PjdJ2PgsryCpA0ywe94ZEGkU+yp54w4jOLA1S6MEfX8baK0nyrZpoeQUgB9UZl4hNVcLkXW1N3E1RuHq3FBA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/subtitly/Subtitly/releases/download/v1.1.1/Subtitly36-35.delta" sparkle:deltaFrom="35" length="833982" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="862784" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="3B1m2PYsKiMNhA9E8X6S5Aup+nJV1b9hDJz1chPYhRHETZGzoKDH0sWlBIIB50rlGHNE6VgY8EtuTU+72rFUBg=="/>
+            </sparkle:deltas>
         </item>
         <item>
-            <title>1.0.6</title>
-            <pubDate>Mon, 30 Sep 2024 19:00:16 +0200</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
+            <title>1.1.0</title>
+            <pubDate>Wed, 09 Oct 2024 15:18:30 +0200</pubDate>
+            <sparkle:version>35</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/subtitly/Subtitly/releases/download/v1.0.6/Subtitly.1.0.6.zip" length="5078952" type="application/octet-stream" sparkle:edSignature="DqYDoqyELCJY/Auu8IRkN2FZBz5Hp2Q25kWdTgN7qxC8qQ/n3FWDDdf137Sbbk0YvvjOA97UfMZKN5Cz/28WCg=="/>
+            <enclosure url="https://github.com/subtitly/Subtitly/releases/download/v1.1.0/Subtitly.1.1.0.zip" length="7941859" type="application/octet-stream" sparkle:edSignature="64xNWrVm77CG3UJimMxymA5a3t2mdU5BRk1QyKhl9xo+znnFdv8bebx67lFMCIQey4aje6w3/D/e9BdIg9ujAQ=="/>
         </item>
         <item>
             <title>1.0.7</title>
@@ -29,12 +32,20 @@
             <enclosure url="https://github.com/subtitly/Subtitly/releases/download/v1.0.7/Subtitly.1.0.7.zip" length="5069297" type="application/octet-stream" sparkle:edSignature="OXiHYoYo7CqdLaXEWnaGAZpPV0ATKSzvkRPSq5hSFN4ti8afH83tG+Vh2J2F44ziEUYmA0TozCQDgY0UoAGSAw=="/>
         </item>
         <item>
-            <title>1.1.0</title>
-            <pubDate>Wed, 09 Oct 2024 15:18:30 +0200</pubDate>
-            <sparkle:version>35</sparkle:version>
-            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <title>1.0.6</title>
+            <pubDate>Mon, 30 Sep 2024 19:00:16 +0200</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/subtitly/Subtitly/releases/download/v1.1.0/Subtitly.1.1.0.zip" length="7941859" type="application/octet-stream" sparkle:edSignature="64xNWrVm77CG3UJimMxymA5a3t2mdU5BRk1QyKhl9xo+znnFdv8bebx67lFMCIQey4aje6w3/D/e9BdIg9ujAQ=="/>
+            <enclosure url="https://github.com/subtitly/Subtitly/releases/download/v1.0.6/Subtitly.1.0.6.zip" length="5078952" type="application/octet-stream" sparkle:edSignature="DqYDoqyELCJY/Auu8IRkN2FZBz5Hp2Q25kWdTgN7qxC8qQ/n3FWDDdf137Sbbk0YvvjOA97UfMZKN5Cz/28WCg=="/>
+        </item>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Sat, 21 Sep 2024 17:13:51 +0200</pubDate>
+            <sparkle:version>33</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/subtitly/Subtitly/releases/download/v1.0.0/Subtitly.1.0.0.zip" length="17604914" type="application/octet-stream" sparkle:edSignature="0MgNqRPSzXAwYXZKpt6Oo1y3ntKd9Rgb0IafgYYcNTrQoi4vnGa+L4jb8QnofU2lcSsx/0oGSwr+e0xD8QrPBA=="/>
         </item>
     </channel>
 </rss>
