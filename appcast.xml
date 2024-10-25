@@ -5,6 +5,18 @@
         <link>https://subtitly.github.io/subtitly/appcast.xml</link>
         <description>Most recent changes with links to updates.</description>
         <item>
+            <title>1.2.0</title>
+            <pubDate>Fri, 25 Oct 2024 18:54:59 +0200</pubDate>
+            <sparkle:version>37</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/subtitly/Subtitly/releases/download/v1.2.0/Subtitly.1.2.0.zip" length="8230649" type="application/octet-stream" sparkle:edSignature="6JMXkDeIORUt98UNKK4cbNKwewYbSIDpXjYCTnwPScGksRKdTSvQW2RwrFTkd9NjWHiL9mnSnNJGTyKg2JzFAg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/subtitly/Subtitly/releases/download/v1.2.0/Subtitly37-36.delta" sparkle:deltaFrom="36" length="1391118" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="862784" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="P47d1XZ9/A2Jdqd7ysDxADc3Hcbo0Epp3BqutmsX7n1m7aHbNh3UkRQIiJ0I3/OdIL8HGy0kmIINY7M8M680CA=="/>
+                <enclosure url="https://github.com/subtitly/Subtitly/releases/download/v1.2.0/Subtitly37-35.delta" sparkle:deltaFrom="35" length="1431134" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="862784" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="rrXOG38HesU6UA0Ka1I/ML0unsJKwazCv59b4CFVEIilIQ58sRV+9sXqeMYV+x3jxDheh0CRXnmrojK4pqiTDw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.1.1</title>
             <pubDate>Thu, 10 Oct 2024 15:54:57 +0200</pubDate>
             <sparkle:version>36</sparkle:version>
